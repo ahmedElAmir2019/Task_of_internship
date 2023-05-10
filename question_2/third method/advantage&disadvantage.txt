@@ -1,0 +1,2 @@
+advantage is the complexity is less than using recuresion directly such as solving  first method and  storage using is less than second me
+disadvantage is complexity still huge and consume time in big numbers

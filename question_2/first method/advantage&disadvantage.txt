@@ -1,0 +1,2 @@
+advantage is t is less than second method
+disadvantage is complexity is huge and consume time in big numbers
